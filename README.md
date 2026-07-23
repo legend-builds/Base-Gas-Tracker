@@ -1,7 +1,7 @@
 ```markdown
 # ⛽ Base Gas Tracker (Python)
 
-A streamlined Python script designed to fetch, convert, and track real-time gas prices on the Base Network directly from mainnet RPC endpoints.
+A streamlined Python script designed to fetch, convert, and track real-time gas prices on the Base Network directly from mainnet RPC endpoints..
 
 ## 🛠️ Features
 - **Instant Gas Parsing:** Queries the `eth_gasPrice` hex value and converts it into readable Gwei values.
